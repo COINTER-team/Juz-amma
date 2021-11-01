@@ -46,6 +46,7 @@ SOFTWARE.
 [ $ ] bash surah.sh
 ```
 
+
 `                function `
 
 > [√] open source code        
