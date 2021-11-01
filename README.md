@@ -46,7 +46,7 @@ SOFTWARE.
 [ $ ] bash surah.sh
 ```
 
-` function `
+`                function `
 
 > [√] open source code        
 > [√] free no key no password        
